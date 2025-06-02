@@ -1,0 +1,5 @@
+curl -X POST http://localhost:8080/predict_base -H "Content-Type: application/json" -d '{}'
+
+curl -X POST http://localhost:8080/predict -H "Content-Type: application/json" -d @example_input.json
+
+curl -X POST http://localhost:8080/predict_advanced -H "Content-Type: application/json" -d @example_input.json
