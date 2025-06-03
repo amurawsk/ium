@@ -188,3 +188,16 @@ neighbourhood_group_cleansed_Sarrià-Sant Gervasi
 bathroom_type_private
 bathroom_type_shared
 bathroom_type_unknown
+bathrooms_per_guest
+bedrooms_per_guest
+beds_per_guest
+beds_per_bedroom
+guests_per_bedroom
+dist_to_center
+location_cluster
+num_amenities
+has_tv_or_wifi
+is_suited_for_longterm
+lat_scaled
+lon_scaled
+is_group_friendly
