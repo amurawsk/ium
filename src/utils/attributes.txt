@@ -13,8 +13,8 @@ amenity_Hangers
 amenity_Essentials
 amenity_Iron
 amenity_Dishes and silverware
-amenity_Bed linens
 amenity_Refrigerator
+amenity_Bed linens
 amenity_TV
 amenity_Cooking basics
 amenity_Heating
@@ -22,8 +22,8 @@ amenity_Washer
 amenity_Microwave
 amenity_Air conditioning
 amenity_Elevator
-amenity_Dedicated workspace
 amenity_Shampoo
+amenity_Dedicated workspace
 amenity_Oven
 amenity_Coffee maker
 amenity_Hot water kettle
@@ -38,8 +38,8 @@ amenity_Drying rack for clothing
 amenity_Wine glasses
 amenity_Host greets you
 amenity_Room-darkening shades
-amenity_Extra pillows and blankets
 amenity_Shower gel
+amenity_Extra pillows and blankets
 amenity_Body soap
 amenity_Smoke alarm
 amenity_Fire extinguisher
@@ -94,7 +94,6 @@ property_type_Room in boutique hotel
 property_type_Room in hostel
 property_type_Room in hotel
 property_type_Room in serviced apartment
-property_type_Shared room in boutique hotel
 property_type_Shared room in guesthouse
 property_type_Shared room in home
 property_type_Shared room in hostel
