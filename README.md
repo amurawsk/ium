@@ -127,4 +127,4 @@ Skrypt wysyła dane testowe do serwera i zapisuje odpowiedzi w `results/ab_test.
 python test_ab/analyze.py
 ```
 
-Skrypt analizuje logi i generuje podsumowanie w pliku `results/microservice.log`.
+Skrypt analizuje logi z pliku `results/microservice.log` i generuje podsumowanie.
