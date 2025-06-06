@@ -10,7 +10,7 @@ from utils.custom_processing_classes import * # te klasy są potrzebne do modelu
 MEDIAN_PRICE = 100
 ADVANCED_MODEL_PATH = "final_models/best_model.joblib"
 ATTRIBUTES_NEEDED_INFO_PATH = "utils/attributes.txt"
-LOGS_PATH = "../results/ab_test.log"
+LOGS_PATH = "../results/microservice.log"
 HOSTING_IP = "0.0.0.0"
 HOSTING_PORT = 8080
 CONST_SEED = 77
